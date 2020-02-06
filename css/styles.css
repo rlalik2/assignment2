@@ -1,17 +1,41 @@
 h1,
 h2 {
-    color: rgb(218, 22, 47)
-    font-family:fantasy;
-    background-color: aqua;
+    color: rgb(00, 00, 00);
+    font-family: 'courier';
+    background-color: #f3dfc7;
+    font-size: 24pt;
 }
 
 body {
-    background-color: oldlace;    
+    background-color: oldlace;
 }
 
 main {
-    background-color: darkviolet
-    
-    
+    background-color: #f3dfc7
 }
 
+
+.somename {
+    color: black;
+
+}
+
+.bodyname {
+    color: green;
+
+}
+
+.bodyname2 {
+    color: aqua;
+
+}
+
+.bodyname3 {
+    background-color: firebrick;
+
+}
+
+.bodyname4 {
+    font-family: 'courier';
+    
+}
