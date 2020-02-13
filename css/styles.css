@@ -60,3 +60,21 @@ body {color: darkgrey;}
 a:hover {
     color: #aaaa
 }
+
+#newtextid {
+    font-size: 18pt;
+    border: 2px solid gray;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 35px;
+    border-radius: 10px;
+}
+
+.newtextid {
+    font-size: 18pt;
+    border: 2px solid gray;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 35px;
+    border-radius: 10px;
+}
