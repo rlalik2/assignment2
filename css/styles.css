@@ -1,3 +1,8 @@
+html {
+    color: gray;
+    box-sizing: border-box;
+    margin: 0;
+}
 h1,
 h2 {
     color: rgb(00, 00, 00);
@@ -68,13 +73,13 @@ a:hover {
     padding-top: 5px;
     padding-left: 35px;
     border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.newtextid {
-    font-size: 18pt;
+.bordernew {
     border: 2px solid gray;
-    padding-bottom: 5px;
-    padding-top: 5px;
-    padding-left: 35px;
-    border-radius: 10px;
+    padding: 5px 35px 5px 35px;
+    margin-left: auto;
+    margin-right: auto;
 }
