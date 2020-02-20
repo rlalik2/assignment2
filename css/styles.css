@@ -3,6 +3,7 @@ html {
     box-sizing: border-box;
     margin: 0;
 }
+
 h1,
 h2 {
     color: rgb(00, 00, 00);
@@ -27,7 +28,7 @@ main {
 
 .bodyname1 {
     font-family: 'courier';
-    
+
 }
 
 /*
@@ -57,10 +58,12 @@ main {
 
 h1,
 h2 {
-    color:antiquewhite;
+    color: antiquewhite;
 }
 
-body {color: darkgrey;}
+body {
+    color: darkgrey;
+}
 
 a:hover {
     color: #aaaa
@@ -82,4 +85,11 @@ a:hover {
     padding: 5px 35px 5px 35px;
     margin-left: auto;
     margin-right: auto;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/1633459.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
 }
