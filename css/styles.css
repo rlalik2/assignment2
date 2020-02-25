@@ -20,6 +20,10 @@ main {
     background-color: #f3dfc7
 }
 
+.bodyname4 header nav{
+    text-shadow: 5px 5px blue;
+    color: gray;   
+}
 
 .somename {
     color: black;
