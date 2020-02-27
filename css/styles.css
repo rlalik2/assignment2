@@ -20,9 +20,17 @@ main {
     background-color: #f3dfc7
 }
 
-.bodyname4 header nav{
-    text-shadow: 5px 5px blue;
+body header nav{
+    text-shadow: 5px 5px darkgrey;
     color: gray;   
+}
+
+ol, lo {
+    color: tan;
+}
+
+footer, ul, li{
+    color: tan;
 }
 
 .somename {
