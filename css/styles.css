@@ -21,7 +21,7 @@ main {
 }
 
 body header nav{
-    text-shadow: 5px 5px darkgrey;
+    text-shadow: 1px 1px darkgrey;
     color: gray;   
 }
 
